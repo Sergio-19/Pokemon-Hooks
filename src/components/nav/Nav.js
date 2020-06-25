@@ -31,7 +31,7 @@ const {show, hide, isOpen} = useContext(NavContext)
                 <ul>
                     <li onClick = {hide}><NavLink to = "/">Главная</NavLink></li>
                     <li onClick = {hide}>
-                    <a href = "#"
+                    <a href = "https://github.com/Sergio-19/Pokemon-Hooks"
                        target="_blank"
                        rel="noopener noreferrer"
                     >GitHub...</a>
